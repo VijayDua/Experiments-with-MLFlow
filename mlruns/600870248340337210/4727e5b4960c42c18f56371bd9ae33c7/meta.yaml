@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/600870248340337210/4727e5b4960c42c18f56371bd9ae33c7/artifacts
+end_time: 1752052898782
+entry_point_name: ''
+experiment_id: '600870248340337210'
+lifecycle_stage: active
+run_id: 4727e5b4960c42c18f56371bd9ae33c7
+run_name: dashing-dog-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752052814518
+status: 3
+tags: []
+user_id: duavi

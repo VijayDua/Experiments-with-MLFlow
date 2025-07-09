@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOpsFundamentals/Experiments-with-MLFlow/mlruns/780943526799838825/768737242e794d018ed6f830539bb647/artifacts
+end_time: 1751947994206
+entry_point_name: ''
+experiment_id: '780943526799838825'
+lifecycle_stage: active
+run_id: 768737242e794d018ed6f830539bb647
+run_name: nebulous-mule-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751947993796
+status: 3
+tags: []
+user_id: duavi

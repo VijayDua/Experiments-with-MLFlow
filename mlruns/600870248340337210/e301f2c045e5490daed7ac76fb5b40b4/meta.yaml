@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/600870248340337210/e301f2c045e5490daed7ac76fb5b40b4/artifacts
+end_time: 1752053925286
+entry_point_name: ''
+experiment_id: '600870248340337210'
+lifecycle_stage: active
+run_id: e301f2c045e5490daed7ac76fb5b40b4
+run_name: rumbling-panda-505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752053580272
+status: 3
+tags: []
+user_id: duavi
